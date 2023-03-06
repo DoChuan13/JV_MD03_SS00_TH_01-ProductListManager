@@ -1,6 +1,5 @@
 package ProductManagerment;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
